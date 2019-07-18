@@ -2,7 +2,7 @@
 import math
 import os
 import random
-import getConfig
+from seq2seqChatbot import getConfig
 from tensorflow.python.platform import gfile
 import re
 # 特殊标记，用来填充标记对话

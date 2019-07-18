@@ -4,7 +4,7 @@
 import math
 import os
 import random
-import getConfig
+from seq2seqChatbot import getConfig
 import jieba
 
 gConfig = {}
